@@ -1,0 +1,4 @@
+# UTF-8
+.git/
+.ipynb_checkpoints/ 
+training_git.ipynb
